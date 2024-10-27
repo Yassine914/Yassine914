@@ -10,11 +10,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/yassinsoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yassinsoftware" height="30" width="40" /></a>
 <a href="https://twitter.com/yassinsoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yassinsoftware" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yassin-shehab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassin-shehab" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yassinshehab206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassinshehab206" height="30" width="40" /></a>
 <a href="https://discord.gg/yassin914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yassin914" height="30" width="40" /></a>
+<a href="https://dev.to/yassinsoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yassinsoftware" height="30" width="40" /></a>
 </p>
 
 <br>
